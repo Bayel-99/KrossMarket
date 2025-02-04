@@ -1,0 +1,10 @@
+export { default as kross } from "../assets/kross.svg";
+export { default as basket } from "../assets/basket.svg";
+export { default as person } from "../assets/person.svg";
+export { default as heart } from "../assets/heart.svg";
+export { default as icons8 } from "../assets/icons8.svg";
+export { default as image1 } from "../assets/image/image1.svg";
+export { default as image2 } from "../assets/image/image2.svg";
+export { default as image3 } from "../assets/image/image3.svg";
+export { default as image4 } from "../assets/image/image4.svg";
+export { default as Group } from "../assets/Group.svg";
